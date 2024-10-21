@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Profile - Valid Value</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>639eb3c2-5517-4cfa-81a3-d4138b0ced36</testCaseGuid>
+</TestCaseEntity>

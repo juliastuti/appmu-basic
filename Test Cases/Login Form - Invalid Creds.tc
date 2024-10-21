@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Form - Invalid Creds</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a3cc456-7f9e-480c-83c4-bc6267bde340</testCaseGuid>
+</TestCaseEntity>

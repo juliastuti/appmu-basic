@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Form - Empty Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d629f7fd-aa1e-4915-9b72-1ac02fe1b25e</testCaseGuid>
+</TestCaseEntity>

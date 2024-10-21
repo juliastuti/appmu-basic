@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Form - Empty Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>793063b9-8ee2-429b-a45f-8dc3c21a37d0</testCaseGuid>
+</TestCaseEntity>
